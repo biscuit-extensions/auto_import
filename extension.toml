@@ -1,0 +1,7 @@
+[extension]
+id = "auto_import"
+name = "Auto Import"
+version = "0.1.0"
+description = "Automatically scan workspace symbols and generate missing import statements"
+author = "biscuit-extensions"
+icon = "icon.png"
